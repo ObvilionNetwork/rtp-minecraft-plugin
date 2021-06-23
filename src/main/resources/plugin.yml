@@ -1,0 +1,8 @@
+name: ObvilionRTP
+version: @version@
+main: ru.obvilion.rtp.ObvilionRTP
+commands:
+  rtp:
+    description: Teleports the player in random place
+    usage: /<command>
+    permission: rtp
